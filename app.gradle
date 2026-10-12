@@ -1,0 +1,21 @@
+android {
+      defaultConfig {
+                applicationId "com.zmrawe.campro"
+                        minSdkVersion 21
+                                targetSdkVersion 34
+                                        multiDexEnabled true
+      }
+
+          compileSdkVersion 34
+
+              buildTypes {
+                        release {
+                                      minifyEnabled false
+                                                  shrinkResources false
+                        }
+              }
+}
+                        }
+              }
+      }
+}

@@ -1,0 +1,72 @@
+Page {
+  background-color: #000000;
+    color: #e6eef8;
+    }
+
+    .action-bar {
+      background-color: #000000;
+        color: #e6eef8;
+        }
+
+        .preview-container {
+          background-color: #000000;
+          }
+
+          .zoom-label {
+            font-size: 16;
+              color: #e6eef8;
+                background-color: rgba(0,0,0,0.5);
+                  padding: 6;
+                    border-radius: 8;
+                    }
+
+                    .zoom-slider-container {
+                      margin: 8;
+                      }
+
+                      .bottom-buttons .btn {
+                        margin: 8;
+                        }
+
+                        .btn {
+                          background-color: #1e1e1e;
+                            color: #e6eef8;
+                              border-radius: 10;
+                                padding: 10;
+                                }
+
+                                .btn.small {
+                                  font-size: 14;
+                                  }
+
+                                  .btn.capture {
+                                    border-width: 3;
+                                      border-color: #1e90ff;
+                                        border-radius: 50;
+                                        }
+
+                                        .btn.record {
+                                          border-width: 2;
+                                            border-color: #ff3b30;
+                                              color: #ff3b30;
+                                              }
+
+                                              .gallery {
+                                                background-color: #050505;
+                                                  padding: 10;
+                                                  }
+
+                                                  .gallery-title {
+                                                    font-size: 18;
+                                                      margin-bottom: 8;
+                                                      }
+
+                                                      .gallery-item {
+                                                        margin: 4;
+                                                        }
+
+                                                        .gallery-image {
+                                                          width: 120;
+                                                            height: 120;
+                                                              border-radius: 8;
+                                                              }
